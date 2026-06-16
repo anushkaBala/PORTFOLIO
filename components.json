@@ -5,7 +5,7 @@
   "tsx": true,
   "tailwind": {
     "config": "postcss.config.js",
-    "css": "src/index.css",
+    "css": "src/index.css",bbbbbbbbbbbb
     "baseColor": "slate",ggggggggggggggggggggg
     "cssVariables": true,
     "prefix": ""mmmmmmmmmmmm
