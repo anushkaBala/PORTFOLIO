@@ -6,7 +6,7 @@
   "tailwind": {
     "config": "postcss.config.js",
     "css": "src/index.css",
-    "baseColor": "slate",
+    "baseColor": "slate",ggggggggggggggggggggg
     "cssVariables": true,
     "prefix": ""mmmmmmmmmmmm
   },
